@@ -19,7 +19,7 @@ In general it makes sense to follow Microsoft’s own coding styles for C#: http
 Some of the notable points below are also adapted from Google’s C# style guide: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
 
 ### Formatting
-See the .editorconfig file
+See the [.editorconfig](.editorconfig) file
 
 StyleCop and SonarLint are great tools for linting and formatting C# code. They can be added as either IDE plugins/extensions, or as nuget packages in projects. Using these as nuget packages is a good option because it means that all team members will benefit by default, and will not necessarily need to install an extension.
 
